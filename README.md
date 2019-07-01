@@ -1,4 +1,5 @@
-## Note: I am focusing my efforts on [play-cljc](https://github.com/oakes/play-cljc), a library for games that run on both the desktop and the web.
+###### A fork of [Oakes' play-clj](https://github.com/oakes/play-clj), aim is to keep this library up-to-date with LibGDX
+
 
 ## Introduction
 
