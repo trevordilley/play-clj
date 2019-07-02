@@ -6,3 +6,22 @@ pom.xml.asc
 **/target
 .*
 !.gitignore
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.jsx
+
+
+### Vim swap files ###
+.*.sw[a-z]
+*~
+
+### Emacs Back files t
+.#*
+
+### OSX tomfoolery ###
+.DS_Store

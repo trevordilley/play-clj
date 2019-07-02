@@ -1,0 +1,6 @@
+(def lib-gdx-version "1.9.9")
+(def clj-version "1.10.0")
+(def play-clj-version "1.1.1")
+(def java-version "1.8")
+(def play-clj-net-version "0.1.2")
+(def prismatic-schema-version "0.2.6")
