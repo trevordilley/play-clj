@@ -1,0 +1,10 @@
+(echo "starting breakout" && cd breakout/desktop && lein run)
+(echo "starting dungeon-crawler" && cd dungeon-crawler/desktop  && lein run)
+(echo "starting minicraft" && cd minicraft/desktop  && lein run)
+(echo "starting minicraft-online" && cd minicraft-online/desktop  && lein run)
+(echo "starting minimal-3d" && cd minimal-3d/desktop  && lein run)
+(echo "starting minimal-3d-model" && cd minimal-3d-model/desktop  && lein run)
+(echo "starting minimal-3d-physics" && cd minimal-3d-physics/desktop  && lein run)
+(echo "starting super-koalio" && cd super-koalio/desktop  && lein run)
+(echo "starting ui-gallery" && cd ui-gallery/desktop  && lein run)
+echo "All done!"
